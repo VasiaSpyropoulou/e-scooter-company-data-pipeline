@@ -14,7 +14,7 @@
 
 ## 🏢 About Gans🪿🛴
 
-**Gans** is a startup developing an **e-scooter-sharing system**, aspiring to operate in the most populous cities worldwide — competing with players like [TIER](https://www.tier.app/) and [Bird](https://www.bird.co/).
+**Gans** is a startup developing an **e-scooter-sharing system**, aspiring to operate in the most populous cities worldwide, competing with players like [TIER](https://www.tier.app/) and [Bird](https://www.bird.co/).
 
 The core operational challenge: **having scooters parked where users actually need them.** Several real-world factors create demand asymmetries:
 
